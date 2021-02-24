@@ -7,6 +7,7 @@ The hard truth is that many machine learning projects fail to get set into produ
 2.	Poor data quality
 3.	Small computing power 
 4.	No version control
+
 Of course, we can’t save the world with just one Hands-On tutorial, but we can at least try to make the life of a data scientist a little easier. In this blog post we will tackle these challenges by bringing the opensource world and SAP world together. In a nutshell, there will be no movement of training data from SAP HANA Cloud to our Python environment. 
 
 ## Requirements
