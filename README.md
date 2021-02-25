@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cloud-ml-challenges)](https://api.reuse.software/info/github.com/SAP-samples/hana-cloud-ml-challenges)
+
 # Hands-On Tutorial: Leverage SAP HANA Machine Learning in the Cloud through the Predictive Analysis Library
 
 ## Description
